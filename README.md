@@ -11,7 +11,8 @@ Python, Deep Learning, Machine Learning, Remote Sensing, Knowledge Graphs, Finan
 <h3 align="left">🎓 Degrees</h3>
 
  - MS in Applied Mathematics (2021) - Paris-Dauphine PSL Research University
-	 Specitlization : AI, Financial Mathematics, Statistics
+
+	Specialization : AI, Financial Mathematics, Statistics
 - BS in Computer Science for Organization (2019) - Paris-Dauphine PSL Research University
 - Grande Etablissement Diploma (eq. BS) in Applied Mathematics and Economics (2019) - Paris-Dauphine PSL Research University
 
